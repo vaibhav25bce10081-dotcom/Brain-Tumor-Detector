@@ -68,3 +68,8 @@ alternative models: If higher accuracy is needed for complex datasets, consider 
 
 ## ⚖️ Disclaimer
 the project is for educational purposes only and should not be used for professional medical diagnosis. Always consult healthcare professionals for medical concerns.
+
+##  About Me
+Name: Vaibhav Bharti
+Registration No.: 25BCE10081
+Course: Fundamentals of AIML
