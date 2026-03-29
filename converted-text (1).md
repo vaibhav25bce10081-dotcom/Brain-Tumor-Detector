@@ -71,5 +71,7 @@ the project is for educational purposes only and should not be used for professi
 
 ##  About Me
 Name: Vaibhav Bharti
+
 Registration No.: 25BCE10081
+
 Course: Fundamentals of AIML
