@@ -1,4 +1,4 @@
-# Brain Tumor Detection using Machine Learning
+# Brain Tumor Detection 
 
 This project implements a Convolutional Neural Network (CNN) using TensorFlow and Keras to classify MRI scans into two categories: **Tumor Detected (yes)** and **No Tumor Detected (no)**.
 
